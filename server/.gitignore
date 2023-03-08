@@ -7,7 +7,7 @@
 
 # testing
 /coverage
-
+git rm -r --cached node_modules
 # production
 /build
 
